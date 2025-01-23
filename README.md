@@ -12,5 +12,5 @@ informations importantes:
 Ce fichier contient la température de chaque point de la plaque.
 Ce fichier doit se trouver dans le même répertoire que le projet.
 
-3) L'option 7 sert à la simulation, tandis que les autres options sont utiles pour modifier les attributs de la plaque.e 
+3) L'option 7 sert à la simulation, tandis que les autres options sont utiles pour modifier les attributs de la plaque.
 
